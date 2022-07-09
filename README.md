@@ -3,7 +3,7 @@
 # Custom React Hooks
 
 In the journey of learning react I will be creating usefull custom hooks that we use regularly in our daily life.
-<br/> I found an interesting website called [react-hooks.org](rooks) and I will be creating a custome hook per day.
+<br/> I found an interesting website called [Rooks](https://react-hooks.org/) and I will be creating a custome hook per day.
 
 ## What will the repo contains:
 
